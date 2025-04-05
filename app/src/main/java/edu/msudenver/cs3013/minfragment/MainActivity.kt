@@ -2,13 +2,12 @@
 // MinFragment Assignment
 // MainActivity.kt file
 
-package edu.msudenver.cs3013.MinFragment
+package edu.msudenver.cs3013.minfragment
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentContainerView
-import edu.msudenver.cs3013.minfragment.R
 
 
 class MainActivity : AppCompatActivity() {

@@ -2,14 +2,13 @@
 // MinFragment Assignment
 // BlueFragment.kt file
 
-package edu.msudenver.cs3013.MinFragment
+package edu.msudenver.cs3013.minfragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import edu.msudenver.cs3013.minfragment.R
 
 //****EDITS TO PARAMETER FOR NEW INSTANCE AT THE BOTTOM****
 
