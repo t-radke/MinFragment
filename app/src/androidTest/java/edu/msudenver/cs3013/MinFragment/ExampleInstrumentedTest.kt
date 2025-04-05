@@ -1,4 +1,4 @@
-package edu.msudenver.cs3013.minfragment
+package edu.msudenver.cs3013.MinFragment
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
